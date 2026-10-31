@@ -1,5 +1,5 @@
 # Opautoclick Auto Clicker 1.0
-
+  
 OP Auto Clicker is a free, portable auto clicker for Windows. You choose how
 often it clicks, which mouse button it uses, and a hotkey to start and stop it.
 There is nothing to install: extract the ZIP and run the program.
@@ -69,3 +69,13 @@ or another scanner, and only run it if you are comfortable.
 
 Many online games do not allow automated clicking. Check the rules of any
 game or service before you use an auto clicker with it.
+
+## Support and contact
+
+- Questions and bug reports: open an [issue](../../issues) on this repository
+- Troubleshooting guide: https://opautoclick.com/autoclicker-troubleshooting/
+- Contact: info@opautoclick.com
+
+## Security
+
+If you find a problem with this software or this download, email info@opautoclick.com. Please include your Windows version and a description of what you saw.
